@@ -1,0 +1,59 @@
+  [
+    {
+      "cart1": 
+        {
+          "imageUrl": "assets/images/1674641745959.jfif",
+          "heading": "Corner Window KDW",
+          "paragraph": "Volle DIN A4 Seite",
+          "status": "Cancelled",
+          "Ausgabe": "4 / 2023",
+          "Presis": "40000 €",
+          "ButtonText": "Go to the Product",
+          "subCart":{
+              "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis unde explicabo, nihil beatae quo.",
+              "Bespielung":"3D Bespielung moglich!",
+              "Resolution":"896 x 2048 Pixel",
+              "Format":"3.5 x 8 Meter",
+              "Conditions":["Minimum Duration: 1 Week","Datenanlieferung: min 1 Week vorcher"],
+              "Contact":["Mustermann, Scholz","sholz@kadewe.de","+491766643634"]
+          }
+        },
+        "cart2": 
+        {
+          "imageUrl": "assets/images/video_wall.jpg",
+          "heading": "Video Wall KDW",
+          "paragraph": "GroBe Eckvitrine",
+          "status": "Cancelled",
+          "Zeitraum": "23.06.2023 - 01.07.2023",
+          "Presis": "18000 €",
+          "ButtonText": "Go to the Product",
+          "subCart":{
+              "Description":"Within the department stores, the partner brands of the KaDeWe Group have the opportunity to present their brand message on large-format and attention-grabbing video walls.",
+              "Bespielung":"3D Bespielung moglich!",
+              "Resolution":"896 x 2048 Pixel",
+              "Format":"3.5 x 8 Meter",
+              "Conditions":["Minimum Duration: 1 Week","Datenanlieferung: min 1 Week vorcher"],
+              "Contact":["Mustermann, Scholz","sholz@kadewe.de","+491766643634"]
+          }
+        },
+        "cart3": 
+        {
+          "imageUrl": "assets/images/KaDeWe PromoTeaserXL Mobile.PNG",
+          "heading": "WEBSITE",
+          "paragraph": "Promo Teaser XL",
+          "status": "Cancelled",
+          "Zeitraum": "23.08.2023 - 08.09.2023",
+          "Presis": "25000 €",
+          "ButtonText": "Go to the Product",
+          "subCart":{
+              "Description":"With the CURATED BRANDS TEASER brands can place their brand message exclusively on the websites of the KaDeWe Group. Each teaser links to an advertorial. In this editorial feature, brands and products can be presented in text and images as well as through image films.",
+              "Bespielung":"3D Bespielung moglich!",
+              "Resolution":"896 x 2048 Pixel",
+              "Format":"3.5 x 8 Meter",
+              "Conditions":["Minimum Duration: 1 Week","Datenanlieferung: min 1 Week vorcher"],
+              "Contact":["Mustermann, Scholz","sholz@kadewe.de","+491766643634"]
+          }
+        }
+    }
+  ]
+  

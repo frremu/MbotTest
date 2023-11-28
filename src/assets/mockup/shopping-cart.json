@@ -1,0 +1,58 @@
+[
+  {
+    "cart1": 
+      {
+        "imageUrl": "assets/images/1674641745959.jfif",
+        "heading": "Corner Window KDW",
+        "paragraph": "Volle DIN A4 Seite",
+        "status": "reserved until 20.10.2023",
+        "Ausgabe": "4 / 2023",
+        "Presis": "40000 €",
+        "ButtonText": "BOOK BINDINGLY",
+        "subCart":{
+            "Description":"The shop windows of our department stores are among the best in Europe. Our aim is to tell stories with extraordinary concepts and stagings in our shop windows, which fascinate, inspire and emotionalize our demanding customers again and again. Within our department stores, we inspire our customers with innovative and unique pop-up concepts.",
+            "Bespielung":"3D POSSIBLE",
+            "Resolution":"896 x 2048 Pixel",
+            "Format":"3.5 x 8 Meter",
+            "Conditions":["Minimum Order : 1 Week","Data Delievery: min 1 Week before."],
+            "Contact":["Mustermann, Scholz","sholz@kadewe.de","+491766643634"]
+        }
+      },
+      "cart2": 
+      {
+        "imageUrl": "assets/images/KaDeWe_TeaserAdvertorial.PNG",
+        "heading": "ONLINE TEASER",
+        "paragraph": "Home Page",
+        "status": "reserved until 08.06.2023",
+        "Zeitraum": "23.06.2023 - 01.07.2023",
+        "Presis": "18000 €",
+        "ButtonText": "BOOK BINDINGLY",
+        "subCart":{
+          "Description":"Within the department stores, the partner brands of the KaDeWe Group have the opportunity to present their brand message on large-format and attention-grabbing video walls.",
+            "Bespielung":"3D Bespielung moglich!",
+            "Resolution":"896 x 2048 Pixel",
+            "Format":"3.5 x 8 Meter",
+            "Conditions":["Minimum Order : 2 Week","Data Delievery: min 4 Week before."],
+            "Contact":["Mustermann2, Scholz","sholz@kadewe.de","+491736643634"]
+        }
+      },
+      "cart3": 
+      {
+        "imageUrl": "assets/images/KaDeWe PromoTeaserXL Mobile.PNG",
+        "heading": "WEBSITE",
+        "paragraph": "Promo Teaser XL",
+        "status": "reserved until 08.06.2023",
+        "Zeitraum": "23.06.2023 - 01.07.2023",
+        "Presis": "2.5000 €",
+        "ButtonText": "BOOK BINDINGLY",
+        "subCart":{
+          "Description":"With the CURATED BRANDS TEASER brands can place their brand message exclusively on the websites of the KaDeWe Group. Each teaser links to an advertorial. In this editorial feature, brands and products can be presented in text and images as well as through image films.",
+            "Bespielung":"3D Bespielung moglich!",
+            "Resolution":"896 x 2048 Pixel",
+            "Format":"3.5 x 8 Meter",
+            "Conditions":["Minimum Order : 2 Week","Data Delievery: min 3 Week before."],
+            "Contact":["Vorname, Nachname","E-Mail","Telefonnummer"]
+        }
+      }
+  }
+]

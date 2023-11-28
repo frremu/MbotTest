@@ -1,0 +1,623 @@
+{
+	"PlacesOfVideoWall": [
+		{"id": "0", "name": "No Video Wall" },
+		{"id": "1", "name": "Floor A" },
+		{"id": "2", "name": "Floor B" },
+		{"id": "3", "name": "Floor C" },
+		{"id": "4", "name": "Floor D" }
+	  ],
+	"stores": [
+		{
+			"id": "1",
+			"_id": {
+				"$oid": "652008d99c1844e9cb100a00"
+			},
+			"name": "KaDeWe",
+			"Address": "123 Main Street",
+			"City": "Sample City",
+			"State": "Sample State",
+			"PostalCode": "12345",
+			"Country": "Sample Country",
+			"Phone": "+1 (555) 123-4567",
+			"Email": "sample@store.com",
+			"OpenedDate": {
+				"$date": {
+					"$numberLong": "1696593600000"
+				}
+			},
+			"IsOpen": true
+		},
+		{
+			"id": "2",
+			"_id": {
+				"$oid": "65200c3f4b1c67cfb5b60f0a"
+			},
+			"name": "Alsterhaus",
+			"Address": "123 Main Street",
+			"City": "Sample City",
+			"State": "Sample State",
+			"PostalCode": "12345",
+			"Country": "Sample Country",
+			"Phone": "+1 (555) 123-4567",
+			"Email": "sample@store.com",
+			"OpenedDate": {
+				"$date": {
+					"$numberLong": "1696593600000"
+				}
+			},
+			"IsOpen": true
+		},
+		{
+			"id": "3",
+			"_id": {
+				"$oid": "6527d2a5e0d00f7b9ed20ac7"
+			},
+			"name": "Oberpolinger",
+			"Address": "123 Main Street",
+			"City": "Sample City",
+			"State": "Sample State",
+			"PostalCode": "12345",
+			"Country": "Sample Country",
+			"Phone": "+1 (555) 123-4567",
+			"Email": "sample@store.com",
+			"OpenedDate": {
+				"$date": {
+					"$numberLong": "1696593600000"
+				}
+			},
+			"IsOpen": true
+		},
+		{
+			"id": "4",
+			"_id": {
+				"$oid": "6527d319e0d00f7b9ed20ac8"
+			},
+			"name": "Carsh-Haus",
+			"Address": "123 Main Street",
+			"City": "Sample City",
+			"State": "Sample State",
+			"PostalCode": "12345",
+			"Country": "Sample Country",
+			"Phone": "+1 (555) 123-4567",
+			"Email": "sample@store.com",
+			"OpenedDate": {
+				"$date": {
+					"$numberLong": "1696593600000"
+				}
+			},
+			"IsOpen": true
+		},
+		{
+			"id": "5",
+			"_id": {
+				"$oid": "6527d32ae0d00f7b9ed20ac9"
+			},
+			"name": "Lammarr",
+			"Address": "123 Main Street",
+			"City": "Sample City",
+			"State": "Sample State",
+			"PostalCode": "12345",
+			"Country": "Sample Country",
+			"Phone": "+1 (555) 123-4567",
+			"Email": "sample@store.com",
+			"OpenedDate": {
+				"$date": {
+					"$numberLong": "1696593600000"
+				}
+			},
+			"IsOpen": true
+		}
+	],
+	"channels": [
+		{
+			"id": "1",
+			"_id": {
+				"$oid": "65200dbd6e4f7068c7557988"
+			},
+			"name": "Digital ",
+			"Description": "A channel for digital communication."
+		},
+		{
+			"id": "2",
+			"_id": {
+				"$oid": "6527d345e0d00f7b9ed20aca"
+			},
+			"name": "Online",
+			"Description": "Online Channel."
+		},
+		{
+			"id": "3",
+			"_id": {
+				"$oid": "6527d387e0d00f7b9ed20acb"
+			},
+			"name": "Print",
+			"Description": "A channel for Print communication."
+		},
+		{
+			"id": "4",
+			"_id": {
+				"$oid": "6527d3b3e0d00f7b9ed20acd"
+			},
+			"name": "Instore",
+			"Description": "A channel for digital communication."
+		}
+	],
+	"categories": [
+		{
+			"id": "1",
+			"_id": {
+				"$oid": "6527d41fe0d00f7b9ed20ace"
+			},
+			"name": "Teaser",
+			"Description": "Double Teaser are some extra rules thats why seperate category for double teaser "
+		},
+		{
+			"id": "2",
+			"_id": {
+				"$oid": "6527d41fe0d00f7b9ed20ace"
+			},
+			"name": "Double Teaser",
+			"Description": "Double Teaser are some extra rules thats why seperate category for double teaser "
+		},
+		{
+			"id": "3",
+			"_id": {
+				"$oid": "6527d489e0d00f7b9ed20acf"
+			},
+			"name": "Newsletter",
+			"Description": ""
+		},
+		{
+			"id": "4",
+			"_id": {
+				"$oid": "6527d498e0d00f7b9ed20ad0"
+			},
+			"name": "Magazine",
+			"Description": ""
+		},
+		{
+			"id": "6",
+			"_id": {
+				"$oid": "6527d4a6e0d00f7b9ed20ad1"
+			},
+			"name": "Windows",
+			"Description": ""
+		},
+		{
+			"id": "7",
+			"_id": {
+				"$oid": "6527d4bee0d00f7b9ed20ad3"
+			},
+			"name": "Print Mailing",
+			"Description": ""
+		},
+		{
+			"id": "8",
+			"_id": {
+				"$oid": "6527d4d8e0d00f7b9ed20ad4"
+			},
+			"name": "Video Wall",
+			"Description": ""
+		},
+		{
+			"id": "9",
+			"_id": {
+				"$oid": "6527d4eae0d00f7b9ed20ad5"
+			},
+			"name": "Social Media",
+			"Description": ""
+		},
+		{
+			"id": "10",
+			"_id": {
+				"$oid": "6527d4fbe0d00f7b9ed20ad6"
+			},
+			"name": "Pop-Ups",
+			"Description": ""
+		},
+		{
+			"id": "11",
+			"_id": {
+				"$oid": "6527d50be0d00f7b9ed20ad7"
+			},
+			"name": "Information Display",
+			"Description": ""
+		},
+		{
+			"id": "13",
+			"_id": {
+				"$oid": "6527d519e0d00f7b9ed20ad8"
+			},
+			"name": "Scale Display",
+			"Description": ""
+		}
+	],
+	"seasonMonths": [
+		"January",
+		"Febuary",
+		"March",
+		"April",
+		"May",
+		"June",
+		"July",
+		"August",
+		"September",
+		"October",
+		"November",
+		"December"
+	],
+	"highSeasons": [
+		{
+			"id": "1",
+			"_id": {
+				"$oid": "65291ab4a46c879acdb57edb"
+			},
+			"name": "Season A",
+			"SeasonDirection": "High",
+			"SeasonType": "CalendarWeek",
+			"SeasonRangesStart": [
+				44
+			],
+			"SeasonRangesEnd": [
+				52
+			]
+		},
+		{
+			"id": "2",
+			"_id": {
+				"$oid": "65291ca1a46c879acdb57edc"
+			},
+			"name": "Season B",
+			"SeasonDirection": "High",
+			"SeasonType": "CalendarWeek",
+			"SeasonRangesStart": [
+				6,
+				35
+			],
+			"SeasonRangesEnd": [
+				20,
+				44
+			]
+		},
+		{
+			"id": "3",
+			"_id": {
+				"$oid": "65291ceca46c879acdb57edd"
+			},
+			"name": "Season C",
+			"SeasonDirection": "High",
+			"SeasonType": "CalendarWeek",
+			"SeasonRangesStart": [
+				1,
+				21
+			],
+			"SeasonRangesEnd": [
+				5,
+				34
+			]
+		},
+		{
+			"id": "4",
+			"_id": {
+				"$oid": "65291fbba46c879acdb57edf"
+			},
+			"name": "CW1-CW43",
+			"SeasonDirection": "High",
+			"SeasonType": "CalendarWeek",
+			"SeasonRangesStart": [
+				1
+			],
+			"SeasonRangesEnd": [
+				43
+			]
+		},
+		{
+			"id": "5",
+			"_id": {
+				"$oid": "65292025a46c879acdb57ee0"
+			},
+			"name": "Newsletter Nameit High",
+			"SeasonDirection": "High",
+			"SeasonType": "Monthly",
+			"SeasonRangesStart": [
+				1,
+				6,
+				11
+			],
+			"SeasonRangesEnd": [
+				2,
+				8,
+				12
+			]
+		},
+		{
+			"id": "6",
+			"_id": {
+				"$oid": "652920c3a46c879acdb57ee1"
+			},
+			"name": "Newsletter Low",
+			"SeasonDirection": "Low",
+			"SeasonType": "Monthly",
+			"SeasonRangesStart": [
+				3,
+				9
+			],
+			"SeasonRangesEnd": [
+				5,
+				10
+			]
+		}
+	],
+	"rules":
+	[
+		{
+			"id": "1",
+			"name": "If ‘A’ booked ‘B’ must be booked",
+			"description": "When you book a product, you must book another product with it",
+			"type": "Bundled",
+			"dependencies":
+			[
+				  {
+					 "conditon": "required"
+				  }
+			],
+			"references":
+			[
+				  {
+					 "property": "category"
+				  }
+			]
+		},
+		{
+			"id": "2",
+			"name": "One product per desired time",
+			"description": "If one product is booked by a user, it cannot be booked by the same user in a defined time",
+			"type": "Mutually Exclusive",
+			"dependencies":
+			[
+				{
+					"conditon": "time_period"
+				}
+			],
+			"references":
+			[
+				{
+					"property": "userId"
+				},
+				{
+					"property": "category"
+				},
+				{
+					"property": "booking_date"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"name": "Video wall and screens on the same sloor",
+			"description": "If a video wall product is booked, all screens per floor have to be booked.",
+			"type": "Complex",
+			"dependencies":
+			[
+				{
+					"conditon": "on_same_floor"
+				}
+			],
+			"references":
+			[
+				{
+					"property": "screens"
+				},
+				{
+					"property": "floor"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"name": "Food brand exclusive",
+			"description": "This product is only bookable by food brands.",
+			"type": "Exclusive",
+			"dependencies":
+			[
+				{
+					"conditon": "allowed_food_brands"
+				}
+			],
+			"references":
+			[
+				{
+					"property": "brands"
+				}
+			]
+		}
+	],
+	"mediaKits":[{
+		"_id": {
+		  "$oid": "65318b980c46acf4c06282a2"
+		},
+		"id": "1",
+		"name": "MediaKit Ecommerce Beauty 2023",
+		"BlobLink": "https://mbotblob.file.core.windows.net/download-mediakits/Mediakit_2023_ecom_Beauty.pdf"
+	  },
+	  {
+		"_id": {
+		  "$oid": "6531a1120c46acf4c06282a3"
+		},
+		"id": "2",
+		"name": "MediaKit Ecommerce Fashion 2023",
+		"BlobLink": "https://mbotblob.file.core.windows.net/download-mediakits/Mediakit_2023_ecom_Fahion.pdf"
+	  },
+	  {
+		"_id": {
+		  "$oid": "6531a1940c46acf4c06282a4"
+		},
+		"id": "3",
+		"name": "MediaKit Fashion 2023",
+		"BlobLink": "https://mbotblob.file.core.windows.net/download-mediakits/Mediakit_Food_2023_ENG.pdf"
+	  },
+	  {
+		"_id": {
+		  "$oid": "6531a1bd0c46acf4c06282a5"
+		},
+		"id": "4",
+		"name": "MediaKit Fullbleed Teaser 2023",
+		"BlobLink": "https://mbotblob.file.core.windows.net/download-mediakits/Mediakit_Fullbleed Teaser.pdf"
+	  },
+	  {
+		"_id": {
+		  "$oid": "6531a1e00c46acf4c06282a6"
+		},
+		"id": "5",
+		"name": "MediaKit Social Media 2023",
+		"BlobLink": "https://mbotblob.file.core.windows.net/download-mediakits/Mediakit_SocialMedia_23.pdf"
+	  },
+	  {
+		"_id": {
+		  "$oid": "6531a20b0c46acf4c06282a7"
+		},
+		"id": "6",
+		"name": "Terms and Conditions",
+		"BlobLink": "https://mbotblob.file.core.windows.net/download-mediakits/Terms and Conditions_Marketing_Version_2022_23.pdf"
+	  }],
+	"brandCategories": [
+		{
+			"id": "1",
+			"_id": {
+				"$oid": "652fa7100c46acf4c0628277"
+			},
+			"name": "Beauty",
+			"Description": ""
+		},
+		{
+			"id": "2",
+			"_id": {
+				"$oid": "652fa7570c46acf4c0628278"
+			},
+			"name": "Fashion",
+			"Description": ""
+		},
+		{
+			"id": "3",
+			"_id": {
+				"$oid": "652fa79e0c46acf4c0628279"
+			},
+			"name": "Ecommerce",
+			"Description": ""
+		},
+		{
+			"id": "4",
+			"_id": {
+				"$oid": "652fa7a90c46acf4c062827a"
+			},
+			"name": "Food",
+			"Description": ""
+		},
+		{
+			"id": "5",
+			"_id": {
+				"$oid": "652fa7c10c46acf4c062827b"
+			},
+			"name": "Ecommerce Kids",
+			"Description": ""
+		},
+		{
+			"id": "6",
+			"_id": {
+				"$oid": "652fa7cb0c46acf4c062827c"
+			},
+			"name": "Home and Living",
+			"Description": ""
+		}
+	],
+	"brands": [
+    {
+			"id": "0",
+			"name": "Not Required"
+		},
+		{
+			"id": "1",
+			"name": "TomTailor"
+		},
+		{
+			"id": "2",
+			"name": "Levis"
+		},
+		{
+			"id": "3",
+			"name": "Coty"
+		},
+		{
+			"id": "4",
+			"name": "Creed"
+		},
+		{
+			"id": "5",
+			"name": "Dea Kudibal"
+		},
+		{
+			"id": "6",
+			"name": "Funko Loungefly"
+		},
+		{
+			"id": "7",
+			"name": "Furla"
+		},
+		{
+			"id": "8",
+			"name": "Gant"
+		},
+		{
+			"id": "9",
+			"name": "Ganni"
+		},
+		{
+			"id": "10",
+			"name": "Lladro"
+		},
+		{
+			"id": "11",
+			"name": "LALA Berlin"
+		},
+		{
+			"id": "12",
+			"name": "Le Marie"
+		},
+		{
+			"id": "13",
+			"name": "Le Labo_Estee"
+		},
+		{
+			"id": "14",
+			"name": "Lego"
+		},
+		{
+			"id": "15",
+			"name": "Levis"
+		},
+		{
+			"id": "16",
+			"name": "Les Deux"
+		},
+		{
+			"id": "17",
+			"name": "TomTailor"
+		},
+		{
+			"id": "18",
+			"name": "Levis"
+		},
+		{
+			"id": "19",
+			"name": "Levis"
+		},
+		{
+			"id": "20",
+			"name": "Liebeskind"
+		},
+		{
+			"id": "21",
+			"name": "Cote & Ciel"
+		}
+	]
+}

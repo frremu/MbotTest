@@ -1,0 +1,94 @@
+{
+  "columns": [
+    {
+      "heading": "KaDeWe",
+      "subElements": [
+        {
+          "label": "Uberuns",
+          "link": "tel:+1234567"
+        },
+        {
+          "label": "Karriere",
+          "link": ""
+        },
+        {
+          "label": "Presse",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "heading": "Kundenservice",
+      "subElements": [
+        {
+          "label": "Hife & Kantakt",
+          "link": ""
+        },
+        {
+          "label": "Layalty Programm",
+          "link": ""
+        },
+        {
+          "label": "Zahlung & Lieferung",
+          "link": ""
+        },
+        {
+          "label": "Store-Gutscheine",
+          "link": ""
+        },
+        {
+          "label": "Gutscheine-Markenausschluss",
+          "link": ""
+        }
+
+      ]
+    },
+    {
+      "heading": "Rechtliches",
+      "subElements": [
+        {
+          "label": "Impressum",
+          "link": "#"
+        },
+        {
+          "label": "AGB",
+          "link": "#"
+        },
+        {
+          "label": "Datenschutz",
+          "link": "#"
+        },
+        {
+          "label": "Cookie-Einstellungen",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "heading": "Stores",
+      "subElements": [
+        {
+          "label": "KaDeWe",
+          "link": "#"
+        },
+        {
+          "label": "Alsterhaus",
+          "link": "#"
+        },
+        {
+          "label": "Oberpollinger",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "heading": "Newsletter",
+      "subElements": [
+        {
+          "label": "10% Willkommensrabatt sichern",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "cart1": 
+      {
+        "Bestellnummer": "Ordernumber: 0000001",
+        "LED_WANd": "Corner Window KDW",
+        "GroBe": "GroBe Eckvitrine",
+        "Zeitraum": "Duration: 21.10.2023 - 27.10.2023"
+        
+      },
+      "cart2": 
+      {
+        "Deadline": "Deadline for data upload",
+        "Deadline_Data": "19.10.2023",
+        "Express_Line": "Express Line Fee for failure to meet the deadline",
+        "Express_Line_Fee": "500 €",
+        "Cancellation_Fee": "Cancellation Fee:",
+        "Eight_Weeks": "Up to 8 weeks before service provision: 20%",
+        "Four_Weeks": "Up to 4 weeks before service provision = min. lead time: 50%",
+        "Two_Weeks": "Up to 2 weeks before service provision: 80%"
+      },
+      "cart3": 
+      {
+        "Video_Eckvitrine": "Here is the Video for the Große Eckvitrine."
+      },
+      "cart4":{
+        "Paragraph":"Unfortunately the video has wrong Resolution please correct."
+      }
+  },
+  {
+    "cart1": 
+      {
+        "Bestellnummer": "Ordernumber: 0000002",
+        "LED_WANd": "Corner Window KDW2",
+        "GroBe": "GroBe Eckvitrine2",
+        "Zeitraum": "Duration: 21.10.2023 - 27.10.2023"
+        
+      },
+      "cart2": 
+      {
+        "Deadline": "Deadline for data upload",
+        "Deadline_Data": "19.10.2023",
+        "Express_Line": "Express Line Fee for failure to meet the deadline",
+        "Express_Line_Fee": "500 €",
+        "Cancellation_Fee": "Cancellation Fee:",
+        "Eight_Weeks": "Up to 8 weeks before service provision: 20%",
+        "Four_Weeks": "Up to 4 weeks before service provision = min. lead time: 50%",
+        "Two_Weeks": "Up to 2 weeks before service provision: 80%"
+      },
+      "cart3": 
+      {
+        "Video_Eckvitrine": "Here is the Video for the Große Eckvitrine."
+      },
+      "cart4":{
+        "Paragraph":"Unfortunately the video has wrong Resolution please correct."
+      }
+  }
+]

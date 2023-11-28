@@ -1,0 +1,48 @@
+[
+    {
+        "paragraph":"Welcome to the Media Booking Online Tool of the KaDeWe Group",
+        "slider":[
+            {
+            "id":1,
+            "image":"./assets/images/230620_KAD_NewsfeedTeaser1_v1.jpg",
+            "title":"First Image",
+            "BtnLink":"https://www.4dmagic.de",
+            "BtnText":"First Button"
+          },
+          {
+              "id":2,
+              "image":"./assets/images/230620_KAD_NewsfeedTeaser2_v1.jpg",
+              "title":"Second Image",
+              "BtnLink":"https://www.4dmagic.de",
+            "BtnText":"Second Button"
+          },
+          {
+              "id":3,
+              "image":"./assets/images/230620_KAD_NewsfeedTeaser3_v1.jpg",
+              "title":"Third Image",
+              "BtnLink":"https://www.4dmagic.de",
+            "BtnText":"Third Button"
+          }
+        ],
+        "contanierContent":[
+          {
+            "id":1,
+            "image":"https://images.unsplash.com/photo-1460627390041-532a28402358?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "name":"KaDeWe",
+            "link":"https://www.4dmagic.de"
+          },
+          {
+            "id":2,
+            "image":"https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+            "name":"ALSTERHAUS",
+            "link":"https://www.4dmagic.de"
+          },
+          {
+            "id":3,
+            "image":"/src/assets/images/mockup/building.jpg",
+            "name":"building",
+            "link":"https://www.4dmagic.de"
+          }
+        ]
+    }
+]

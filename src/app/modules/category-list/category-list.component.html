@@ -1,6 +1,6 @@
-<h1>Welcome to Redirect Demo</h1>
+<!-- Assuming "categories" is an array of objects in your component.ts file -->
 
-<p-panel header="Category List" [toggleable]="true" [style]="{'margin-bottom': '20px', 'font-size':'large'}">
+<p-panel header="Category List" [toggleable]="true" [style]="{'margin-bottom': '20px'}">
   <div class="form-container">
     <div class="list-heading-container">
       <button pButton type="button" icon="pi pi-plus" label="Add Category" class="p-button-rounded p-button-success p-button-text" (click)="add()"></button>
@@ -30,5 +30,3 @@
     </div>
   </div>
 </p-panel>
-
-<router-outlet></router-outlet>

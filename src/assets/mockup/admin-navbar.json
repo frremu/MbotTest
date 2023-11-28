@@ -1,0 +1,27 @@
+[
+    {
+        "dashboard": {
+            "collection":"Collection"
+        },
+        "shop": {
+            "kadewe": "Kadewe",
+            "alsterhaus": "Alsterhaus",
+            "oberpolinger": "Oberpolinger",
+            "carsh_Haus": "Carsh-Haus",
+            "lamarr": "Lamarr"
+        },
+        "administration": {
+            "articleOverview": "Article Overview",
+            "brandOverview": "Brand Overview",
+            "collectionOverview":"Collection Overview",
+            "orderOverview": "Order Overview"
+        },
+        "user": {
+            "contact": "Contact Details",
+            "addBrand": "Add Brand",
+            "addUser": "Add User",
+            "change_Password": "Change Password",
+            "logout": "Logout"
+        }
+    }
+]
